@@ -1167,6 +1167,7 @@ body * {
 }
 
 .s8-input-1, .s8-input-2, .s8-input-3 {
+    color: #FFFFFF;
     background-color: #131313;
     border-left: none;
     border-top: none;
